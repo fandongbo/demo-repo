@@ -9,5 +9,5 @@ eureka:
       defaultZone: http://localhost:8001/eureka/
 env: dev
 test:
-  value1: 1111111111
+  value1: 1111111111aaaa
   value2: 2222222222
