@@ -1,12 +1,3 @@
-eureka:
-  instance:
-    hostname: localhost
-    preferIpAddress: false
-  client:
-    registerWithEureka: true
-    fetchRegistry: false
-    serviceUrl:
-      defaultZone: http://localhost:8001/eureka/
 env: dev
 test:
   value1: 1111111111aaaa
