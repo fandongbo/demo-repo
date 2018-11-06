@@ -2,12 +2,3 @@ env: dev
 test:
   value1: 1111111111aaaa
   value2: 2222222222
-eureka:
-  client:
-    fetchRegistry: true
-    registerWithEureka: true
-    serviceUrl:
-      defaultZone: http://localhost:8001/eureka/
-  instance:
-    hostname: localhost
-    preferIpAddress: false
